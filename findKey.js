@@ -18,6 +18,7 @@ const findKey = function(obj, callback) {
   }
 };
 
+module.exports = findKey;
 
 // Tests
 let sampleData = {

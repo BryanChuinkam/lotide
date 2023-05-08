@@ -35,7 +35,7 @@ const letterPositions = function(sentence) {
   return results;
 };
 
-
+module.exports = letterPositions;
 // Test
 let sentence = "lighthouse in the house";
 let letterPosObj = letterPositions(sentence);
