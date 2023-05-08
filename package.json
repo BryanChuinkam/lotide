@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@bryancn/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "Lighthouse Labs course project.",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/BryanChuinkam/lotide.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Bryan Chuinkam",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/BryanChuinkam/lotide/issues"
